@@ -1,0 +1,17 @@
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\bin\Debug\Template4335.exe.config
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\bin\Debug\Template4335.exe
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\bin\Debug\Template4335.pdb
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335.csproj.AssemblyReference.cache
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\MainWindow.g.cs
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\NazmeevaAK4335.g.cs
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\App.g.cs
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335_MarkupCompile.cache
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335_MarkupCompile.lref
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\MainWindow.baml
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\NazmeevaAK4335.baml
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335.g.resources
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335.Properties.Resources.resources
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335.csproj.GenerateResource.cache
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335.csproj.CoreCompileInputs.cache
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335.exe
+C:\Users\cklooody\Desktop\Template4335\Template4335\Template4335\obj\Debug\Template4335.pdb

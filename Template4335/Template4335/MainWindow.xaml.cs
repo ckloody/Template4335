@@ -24,5 +24,11 @@ namespace Template4335
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            NazmeevaAK4335 nazmeevaAK4335 = new NazmeevaAK4335();
+            nazmeevaAK4335.Show();
+        }
     }
 }
